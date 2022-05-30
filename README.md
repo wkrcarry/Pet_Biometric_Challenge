@@ -1,5 +1,17 @@
 # Dog nose print recognition
                                                                   
-## Introduction
-  Weights of the file Download here
-  After the download, Place the zz files in the xx folder
+This project comes from TIANCHI CVPR2022 Biometrics Workshop
+Pet Biometric Challenge.
+
+**Due to data set permissions, we will only share the code here.**
+## Contents
+- [Install](#Install)
+- [Usage](#Usage)
+## Install
+
+
+
+
+
+
+## Usage

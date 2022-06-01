@@ -33,5 +33,7 @@ To be updated..
 
 ## Usage
 ```
-Due to the limitation of the data set of the competition, the data set is not provided here. We will upload the test images later.
+Due to the limitation of the data set of the competition, the data set is not provided here.
+
+We will upload the test images later.
 ```

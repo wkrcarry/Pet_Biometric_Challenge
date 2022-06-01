@@ -11,12 +11,15 @@ Pet Biometric Challenge.
 
 ## Introduction
 
-According to the GMI report, global pet care market size surpassed $232 billion in 2020. With the rapid growth of pet economy, pet welfare becomes an increasingly critical issue. In many scenarios such as pet management, trading, insurance, medical treatment etc., pet identification is a challenging problem, and currently there is no solution balanced accuracy, cost and usability well. As a contrast, vision-based pattern identification (such as face, fingerprint, iris etc.) has been successfully applied in human biometrics for a long history. An interesting question is: can we transfer these technologies to pet biometrics?
+According to the GMI report, global pet care market size surpassed $232 billion in 2020. With the rapid growth of pet economy, pet welfare becomes an increasingly critical issue. In many scenarios such as pet management, trading, insurance, medical treatment etc., pet identification is a challenging problem, and currently there is no solution balanced accuracy, cost and usability well. As a contrast, vision-based pattern identification (such as face, fingerprint, iris etc.) has been successfully applied in human biometrics for a long history.
+
+This report is our biometric code based on the image of the dog's nose print provided by the competition
 
 
 ## Install
 
 '''
+The model weights file can be downloaded [here](https://www.aliyundrive.com/s/WQ9H4Q8e3bF)
 
 '''
 

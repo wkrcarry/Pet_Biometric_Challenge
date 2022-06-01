@@ -19,8 +19,11 @@ This report is our biometric code based on the image of the dog's nose print pro
 ## Install
 
 '''
-The model weights file can be downloaded [here](https://www.aliyundrive.com/s/WQ9H4Q8e3bF)
+The model weights file can be downloaded [here](https://www.aliyundrive.com/s/WQ9H4Q8e3bF).
 
+After downloading the weights file, double-click to unzip it and select the target folder
+
+Place the vGG16-397923af.pth file in the model_data folder,Place the other weight files under the logs folder.
 '''
 
 

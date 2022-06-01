@@ -24,6 +24,8 @@ The model weights file can be downloaded [here](https://www.aliyundrive.com/s/WQ
 After downloading the weights file, double-click to unzip it and select the target folder
 
 Place the vGG16-397923af.pth file in the model_data folder,Place the other weight files under the logs folder.
+
+To be updated..
 ```
 
 
@@ -31,5 +33,5 @@ Place the vGG16-397923af.pth file in the model_data folder,Place the other weigh
 
 ## Usage
 ```
-
+Due to the limitation of the data set of the competition, the data set is not provided here. We will upload the test images later.
 ```

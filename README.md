@@ -25,6 +25,8 @@ After downloading the weights file, double-click to unzip it and select the targ
 
 Place the vGG16-397923af.pth file in the model_data folder,Place the other weight files under the logs folder.
 
+environment Pytorch(cuda) >= 1.7 
+
 To be updated..
 ```
 

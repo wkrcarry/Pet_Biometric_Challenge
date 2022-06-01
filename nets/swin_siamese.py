@@ -561,8 +561,8 @@ class Siamese(nn.Module):
 
         x = self.norm(x)  # [B, L, C]
         x = self.avgpool(x.transpose(1, 2))  # [B, C, 1]
-        #x = torch.flatten(x, 1)
-        #x = self.head(x)
+        x = torch.flatten(x, 1)
+        x = self.head(x)
         #x = torch.nn.functional.adaptive_avg_pool2d(x, (1,1))
         return x
 
@@ -570,9 +570,7 @@ class Siamese(nn.Module):
         x1, x2 = x
         x1 = self.forward_once(x1)
         x2 = self.forward_once(x2)
-        
-        x1 = torch.flatten(x1, 1)
-        x2 = torch.flatten(x2, 1)
+       
         x = torch.abs(x1 - x2)
         x = self.fully_connect1(x)
         x = self.fully_connect2(x)

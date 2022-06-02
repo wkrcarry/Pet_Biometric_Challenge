@@ -18,8 +18,8 @@ This report is our biometric code based on the image of the dog's nose print pro
 
 ## Install
 
-```
-The model weights file can be downloaded [here](#https://www.aliyundrive.com/s/WQ9H4Q8e3bF).
+
+The model weights file can be downloaded [here](# https://www.aliyundrive.com/s/WQ9H4Q8e3bF).
 
 After downloading the weights file, double-click to unzip it and select the target folder
 
@@ -28,14 +28,14 @@ Place the vGG16-397923af.pth file in the model_data folder,Place the other weigh
 environment Pytorch(cuda) >= 1.7 
 
 To be updated..
-```
+
 
 
 
 
 ## Usage
-```
+
 Due to the limitation of the data set of the competition, the data set is not provided here.
 
 We will upload the test images later.
-```
+
